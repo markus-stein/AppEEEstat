@@ -1,7 +1,5 @@
 data(mtcars)
 
-mtcars <- mtcars
-
 mtcars$am <- factor(mtcars$am, ordered = FALSE)
 levels(mtcars$am) <- c("Automático", "Manual")
 
