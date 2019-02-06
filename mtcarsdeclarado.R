@@ -1,7 +1,7 @@
 data(mtcars)
 
 mtcars$am <- factor(mtcars$am, ordered = FALSE)
-levels(mtcars$am) <- c("Automático", "Manual")
+levels(mtcars$am) <- c("Auto", "Manual")
 
 mtcars$vs <- factor(mtcars$vs, ordered = FALSE)
 levels(mtcars$vs) <- c("V-engine", "Straight")
