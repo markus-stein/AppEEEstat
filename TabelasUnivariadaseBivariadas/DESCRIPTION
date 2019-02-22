@@ -1,0 +1,11 @@
+Package: TabelasUnivariadaseBivariadas
+Type: Package
+Title: TabelasUniBiv
+Version: 0.1.0
+Author: Arthur Rasbold neves
+Maintainer: Arthur Rasbold Neves <arthur.rasbold@hotmail.com>
+Description: Contém funções que criam tabelas para uma ou duas variáveis
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
