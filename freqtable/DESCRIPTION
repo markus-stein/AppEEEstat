@@ -1,6 +1,6 @@
-Package: TabelasUnivariadaseBivariadas
+Package: freqtable
 Type: Package
-Title: TabelasUniBiv
+Title: Univariate and Bivariate Frequency Tables
 Version: 0.1.0
 Author: Arthur Rasbold neves
 Maintainer: Arthur Rasbold Neves <arthur.rasbold@hotmail.com>
