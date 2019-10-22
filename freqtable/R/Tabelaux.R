@@ -13,8 +13,8 @@
 #'
 #'  @export
 Tabelaux <- function(y){
-  tabelaux   <-  table(y)
+  tabelaux <- table(y)
   tabelaux <- cbind(tabelaux, tabelaux/length(y))
-  colnames(tabelaux) <- c("f", "fr")
+  colnames(tabelaux) <- c("Freq", "Prop")
   return(tabelaux)
 }

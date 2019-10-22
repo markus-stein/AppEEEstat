@@ -1,7 +1,7 @@
 Package: freqtable
 Type: Package
-Title: Univariate and Bivariate Frequency Tables
-Version: 0.1.0
+Title: Univariate and Bivariate Frequency (Contingency) Tables
+Version: 0.1.1
 Author: Arthur Rasbold neves
 Maintainer: Arthur Rasbold Neves <arthur.rasbold@hotmail.com>
 Description: Contém funções que criam tabelas para uma ou duas variáveis
